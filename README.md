@@ -20,4 +20,5 @@ Unless otherwise specified, these projects are released under the [MIT License](
 | t-Angel Matching System | Created for tAngel 2016 and refined for tAngel 2017 and OraAngel 2017. Can be used to create a long, unbroken chain of angels and mortals given an initial list of participants. | https://github.com/frizensami/archangel |
 | Botmother | This is a Telegram bot that crowd-sources questions and answers - like a dynamic forum as a Telegram bot. Created for Orbital 2016, but initially tested on Tembusu students. | https://github.com/yewsiang/botmother |
 | Treehouse Game | A collaborative story-creation game, created for Treehouse in 2016/17 Semester 1 | https://github.com/frizensami/treehouse-game |
+| MenuSnap | Android mobile application that does OCR on photos of food menus, ultimately providing users with more information regarding the food items on the menu. Created for Orbital 2016 | https://github.com/zhiyong-ong/Food_Search |
 
