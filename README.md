@@ -21,4 +21,5 @@ Unless otherwise specified in an individual project, these projects are released
 | Botmother | This is a Telegram bot that crowd-sources questions and answers - like a dynamic forum as a Telegram bot. Created for Orbital 2016, but initially tested on Tembusu students. | https://github.com/yewsiang/botmother |
 | Treehouse Game | A collaborative story-creation game, created for Treehouse in 2016/17 Semester 1 | https://github.com/frizensami/treehouse-game |
 | MenuSnap | Android mobile application that does OCR on photos of food menus, ultimately providing users with more information regarding the food items on the menu. Created for Orbital 2016 | https://github.com/zhiyong-ong/Food_Search |
+| Quiplash Bot | Telegram Bot for the game Quiplash, current a work-in-progress | https://github.com/zameschua/quiplash_bot |
 
