@@ -23,4 +23,5 @@ Unless otherwise specified in an individual project, these projects are released
 | MenuSnap | Android mobile application that does OCR on photos of food menus, ultimately providing users with more information regarding the food items on the menu. Created for Orbital 2016 | https://github.com/zhiyong-ong/Food_Search |
 | Quiplash Bot | Telegram Bot for the game Quiplash, current a work-in-progress | https://github.com/zameschua/quiplash_bot |
 | Tembusu Teas Scraper | A python script that can be scheduled to inform you about new Tembusu teas, seminars, forums and workshops | https://gist.github.com/kabir-plod/b9df5679e93ab645c95ceed8967d527f |
+| tLaundryBot | The laundry bot that Tembusu deserves | https://github.com/kev-inc/tLaundryBot/ |
 
