@@ -24,4 +24,4 @@ Unless otherwise specified in an individual project, these projects are released
 | Quiplash Bot | Telegram Bot for the game Quiplash, current a work-in-progress | https://github.com/zameschua/quiplash_bot |
 | Tembusu Teas Scraper | A python script that can be scheduled to inform you about new Tembusu teas, seminars, forums and workshops | https://gist.github.com/kabir-plod/b9df5679e93ab645c95ceed8967d527f |
 | tLaundryBot | The laundry bot that Tembusu deserves | https://github.com/kev-inc/tLaundryBot/ |
-
+| NUSIVLEBot | Push notification for IVLE announcements | https://github.com/indocomsoft/NUSIVLEBot/ |
